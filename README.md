@@ -1,0 +1,1 @@
+"This file is my Windows 7 alias file pretty much that allows me to customize my Windows 7 native terminal to whatever I want - similar to the ~/.bash_profile or ~/.bash_rc files in a *nix (i.e. linux or unix) environment" 
